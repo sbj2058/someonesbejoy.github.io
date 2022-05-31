@@ -1,0 +1,38 @@
+.container{
+    height: 160px;
+    width: 450px;
+    /* background-color: purple;  */
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+    font-family:Roboto;
+    /* display: flex; */
+    text-align: center;
+}
+.buttons{
+    font-family: Roboto;
+}
+
+.back_btn {
+    color: #fff;
+    background-color: #473edb;
+}
+
+.contact_btn {
+    color: #374151;
+    /* background-color: #e0e7fe; */
+    margin-left: 8px;
+    font-weight: 500;
+    border: 1px solid #e5e7eb;
+    
+}
+
+a {
+    text-decoration: none;
+    padding: 10px 16px;
+    border-radius: 8px;
+    
+}
